@@ -1,5 +1,5 @@
 # Machine Learning Notes
-- A personal study notes for machine learning concepts, algorithms and models, serving as a knowledge base for my study in machine learning and deep learning
+- A personal study note for machine learning concepts, algorithms and models, serving as a knowledge base for my study in machine learning and deep learning
 - Shown in the structue organized based on my understandings and learning experiences
 
 # Reference materials: 
