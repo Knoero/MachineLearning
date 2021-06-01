@@ -1,7 +1,7 @@
 # Machine Learning Notes
 - Personal study notes 
 - Collect the concepts, algorithms and models in machine learning and deep learning
-- Try to build a systematic knowledge from basic mathematics to application of common models
+- Try to build a systematic knowledge ranging from basic mathematics to application of common models
 - Serve as a knowledge base and a code base for future study
 
 # Reference materials: 
